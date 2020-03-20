@@ -21,7 +21,6 @@ namespace baitap
                 else
                     k++;
             }
-            s -= 'x';
             Console.WriteLine(s);
 
         }
